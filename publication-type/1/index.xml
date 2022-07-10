@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Academic</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 12:54:24 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>An artificial-intelligence interpretable tool to predict risk of deep vein thrombosis after endovenous thermal ablation</title>
+      <link>https://example.com/publication/an-artificial-intelligence-interpretable-tool-to-predict-risk-of-deep-vein-thrombosis-after-endovenous-thermal-ablation/</link>
+      <pubDate>Tue, 05 Jul 2022 12:54:24 +0000</pubDate>
+      <guid>https://example.com/publication/an-artificial-intelligence-interpretable-tool-to-predict-risk-of-deep-vein-thrombosis-after-endovenous-thermal-ablation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 05:15:32 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Stable Regression</title>
+      <link>https://example.com/project/stable-regression/</link>
+      <pubDate>Sat, 09 Jul 2022 05:15:32 +0000</pubDate>
+      <guid>https://example.com/project/stable-regression/</guid>
+      <description>&lt;p&gt;Propose structurally stable optimal solutions using robust optimization&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radiology Treatment Prescription for Sarcoma Tumor</title>
+      <link>https://example.com/project/radiology-treatment-prescription-for-sarcoma-tumor/</link>
+      <pubDate>Sat, 09 Jul 2022 05:14:57 +0000</pubDate>
+      <guid>https://example.com/project/radiology-treatment-prescription-for-sarcoma-tumor/</guid>
+      <description>&lt;p&gt;Prescribe optimal radiotherapy treatment for patients with sarcoma tumor&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing TAVR</title>
+      <link>https://example.com/project/optimizing-tavr/</link>
+      <pubDate>Sat, 09 Jul 2022 05:14:05 +0000</pubDate>
+      <guid>https://example.com/project/optimizing-tavr/</guid>
+      <description>&lt;p&gt;Predict risk of complications and placement of pacemaker after TAVR procedure&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Democratize Philately Auction</title>
+      <link>https://example.com/project/democratize-philately-auction/</link>
+      <pubDate>Sat, 09 Jul 2022 05:13:40 +0000</pubDate>
+      <guid>https://example.com/project/democratize-philately-auction/</guid>
+      <description>&lt;p&gt;Detect stamp characteristics and construct language paragraphs to democratize stamp auction&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Violence Prevention</title>
+      <link>https://example.com/project/violence-prevention/</link>
+      <pubDate>Sat, 09 Jul 2022 05:12:36 +0000</pubDate>
+      <guid>https://example.com/project/violence-prevention/</guid>
+      <description>&lt;p&gt;Use HAIM to prevent domestic violence using multi-modal data&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid Response Team Dispatch</title>
+      <link>https://example.com/project/rapid-response-team-dispatch/</link>
+      <pubDate>Sat, 09 Jul 2022 04:59:42 +0000</pubDate>
+      <guid>https://example.com/project/rapid-response-team-dispatch/</guid>
+      <description>&lt;p&gt;Collaborate with Hartford Hospital to predict the risk of redcap incidents across hospitals for rapid response team dispatch&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
