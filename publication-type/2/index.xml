@@ -5,12 +5,20 @@
     <link>https://example.com/publication-type/2/</link>
       <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 20:48:02 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 20:49:07 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://example.com/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Integrated multimodal artificial intelligence framework for healthcare applications</title>
+      <link>https://example.com/publication/integrated-multimodal-artificial-intelligence-framework-for-healthcare-applications/</link>
+      <pubDate>Mon, 04 Jul 2022 20:49:07 +0000</pubDate>
+      <guid>https://example.com/publication/integrated-multimodal-artificial-intelligence-framework-for-healthcare-applications/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Artificial Intelligence to find the optimal margin width in hepatectomy for colorectal cancer liver metastases</title>
